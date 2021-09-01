@@ -1,0 +1,7 @@
+Techstation:
+frame:			919 kr
+frame strong:	388 kr
+shell misc:		756 kr
+shell deck:		716 kr
+---
+total:			2779 kr
